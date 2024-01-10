@@ -4,6 +4,7 @@
 
  - OCaml Code which will print the sum of squares of the elements(excluding negative integers) of an array using recursion
  - Takes input(separated by spaces) from user and computes the sum of squares.
+ - Code: https://github.com/Vashesh08/RISC-V/blob/main/interesting/bin/main.ml
 
   ![image](https://github.com/Vashesh08/RISC-V/assets/66066662/e472ffd2-4b45-4c1d-8c93-345bc2c12877)
 
