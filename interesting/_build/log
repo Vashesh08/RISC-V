@@ -1,0 +1,23 @@
+# dune exec interesting
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/vashesh/.cache/dune/db
+# Workspace root: /home/vashesh/Desktop/Learning/RISC-V-mentorship/interesting
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/home/vashesh/Desktop/Learning/RISC-V-mentorship/interesting/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /home/vashesh/.opam/default/bin/ocamlc.opt -config > /tmp/dune_c9285b_output
